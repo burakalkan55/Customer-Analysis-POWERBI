@@ -1,4 +1,4 @@
-# Customer-Analysis-POWERBI
+# Customer-Analysis-PowerBI
 I analyzed and made graph about customer and about their purchase .
 
 I'm still learning PowerBI and practicing everyday.
